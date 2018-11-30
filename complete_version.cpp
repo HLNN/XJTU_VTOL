@@ -1,7 +1,7 @@
 /** @file client.cpp
 *  @version 3.1.8
 *  @date July 29th, 2016
-*
+*by zhnagixnming
 *  @brief
 *  All the exampls for ROS are implemented here.
 *
