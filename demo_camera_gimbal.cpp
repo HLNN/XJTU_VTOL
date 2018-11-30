@@ -3,7 +3,7 @@
  *  @date May, 2017
  *
  *  @brief
- *  demo sample of how to use camera and gimbal APIs
+ *  demo sample of how to use camera and gimbal APIs　嗷嗷快死掉了
  *
  *  @copyright 2017 DJI. All rights reserved.
  *
