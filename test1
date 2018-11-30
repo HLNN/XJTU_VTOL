@@ -1,4 +1,0 @@
-git init
-git commit -m 'test'
-git remote add origin https://github.com/exploreboy/littlefriend.git
-git push origin master
