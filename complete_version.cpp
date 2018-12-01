@@ -5,6 +5,8 @@
 *  @brief
 *  All the exampls for ROS are implemented here.
 *
+*  xiugai by zhangixinming
+*
 *  @copyright 2016 DJI. All rights reserved.
 *
 */
